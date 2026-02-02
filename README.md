@@ -167,5 +167,5 @@ This learning resource is free to use and share. Happy learning!
 
 ---
 
-**Happy Coding! 🎉**
+
 

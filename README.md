@@ -1,14 +1,22 @@
 # 🚀 Git & GitHub Learning Guide
 
-A comprehensive guide to learning Git and GitHub for version control and collaborative development.
+> A comprehensive, step-by-step guide to learning Git and GitHub for version control and collaborative development. Perfect for beginners and those looking to refresh their skills.
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+**Status:** ✅ Complete and Ready to Use | **Last Updated:** 2024
 
 ## 📚 Table of Contents
 
-1. [Introduction](#introduction)
-2. [Why Git & GitHub?](#why-git--github)
-3. [Learning Path](#learning-path)
-4. [Quick Start](#quick-start)
-5. [Resources](#resources)
+1. [Introduction](#-introduction)
+2. [Why Git & GitHub?](#-why-git--github)
+3. [Learning Path](#-learning-path)
+4. [Quick Start](#-quick-start)
+5. [Repository Structure](#-repository-structure)
+6. [Contributing](#-contributing)
+7. [Additional Resources](#-additional-resources)
 
 ## 🚀 Getting Started
 
@@ -156,16 +164,34 @@ Quick steps:
 
 ## 📝 License
 
-This learning resource is free to use and share. Happy learning!
+This learning resource is free to use and share. See [LICENSE](./LICENSE) file for details.
 
 ## 🔗 Additional Resources
 
+### Official Documentation
 - [Official Git Documentation](https://git-scm.com/doc)
 - [GitHub Guides](https://guides.github.com/)
-- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)
+- [GitHub Documentation](https://docs.github.com/)
+
+### Learning Platforms
 - [GitHub Learning Lab](https://lab.github.com/)
+- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)
+- [Learn Git Branching](https://learngitbranching.js.org/)
+
+### Tools
+- [GitHub Desktop](https://desktop.github.com/)
+- [GitKraken](https://www.gitkraken.com/)
+- [SourceTree](https://www.sourcetreeapp.com/)
+
+---
+
+## ⭐ Show Your Support
+
+If this guide helped you learn Git and GitHub, please consider giving it a ⭐ star on GitHub!
 
 ---
 
 **Happy Coding! 🎉**
+
+*Made with ❤️ for the developer community*
 

@@ -191,7 +191,7 @@ If this guide helped you learn Git and GitHub, please consider giving it a ⭐ s
 
 ---
 
-**Happy Coding! 🎉**
+
 
 *Made with ❤️ for the developer community*
 

@@ -263,7 +263,4 @@ git init
 4. Create your own practice scenarios
 5. Apply what you learned to real projects
 
----
-
-**Happy Learning!** Use this project to build confidence with Git and GitHub! 🚀
 

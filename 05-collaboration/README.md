@@ -389,7 +389,4 @@ Add screenshots to `../images/screenshots/05-collaboration/`:
 
 Ready for advanced topics? Check out [Advanced Topics](./../06-advanced-topics/README.md)!
 
----
-
-**Remember:** Collaboration is about communication and respect! 🤝
 

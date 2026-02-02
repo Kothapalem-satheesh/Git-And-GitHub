@@ -377,7 +377,4 @@ Add screenshots to `../images/screenshots/03-github-essentials/`:
 
 Ready to work with branches? Learn about [Branching & Merging](./../04-branching-merging/README.md)!
 
----
-
-**Pro Tip:** Keep your GitHub profile updated with your best projects! 🚀
 

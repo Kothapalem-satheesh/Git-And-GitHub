@@ -491,7 +491,4 @@ Add screenshots to `../images/screenshots/06-advanced-topics/`:
 
 Learn [Best Practices](./../07-best-practices/README.md) to use Git effectively!
 
----
-
-**Pro Tip:** Master these advanced features to become a Git expert! 🚀
 

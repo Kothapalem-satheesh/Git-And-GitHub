@@ -190,5 +190,4 @@ If this guide helped you learn Git and GitHub, please consider giving it a ⭐ s
 
 
 
-*Made with ❤️ for the developer community*
 

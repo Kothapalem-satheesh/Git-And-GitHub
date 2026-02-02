@@ -360,7 +360,4 @@ Add screenshots to `../images/screenshots/02-git-workflow/`:
 
 Ready for GitHub? Learn about [GitHub Essentials](./../03-github-essentials/README.md)!
 
----
-
-**Remember:** Practice makes perfect! Try these commands on a test project. 💪
 

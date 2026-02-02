@@ -241,7 +241,4 @@ Add screenshots to `../images/screenshots/01-git-basics/`:
 
 Ready to learn more? Move on to [Git Workflow](./../02-git-workflow/README.md)!
 
----
-
-**Tip:** Practice these commands daily until they become second nature! 💪
 

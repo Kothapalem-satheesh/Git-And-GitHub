@@ -160,7 +160,4 @@ Not sure about something? Feel free to:
 
 Every contribution, no matter how small, helps make this guide better for learners. Thank you for taking the time to contribute!
 
----
-
-**Happy Contributing!** 🚀
 

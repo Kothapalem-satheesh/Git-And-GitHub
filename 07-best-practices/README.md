@@ -469,7 +469,4 @@ Add screenshots to `../images/screenshots/07-best-practices/`:
 - [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/)
 - [Semantic Versioning](https://semver.org/)
 
----
-
-**Remember:** Good practices make collaboration easier and code safer! ✨
 

@@ -394,7 +394,4 @@ Add screenshots to `../images/screenshots/04-branching-merging/`:
 
 Ready to collaborate? Learn about [Collaboration](./../05-collaboration/README.md)!
 
----
-
-**Remember:** Branches are cheap in Git - use them liberally! 🌿
 

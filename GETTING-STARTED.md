@@ -95,7 +95,7 @@ git commit -m "Initial commit"
 git log
 ```
 
-**Congratulations!** You just used Git! 🎉
+You just used Git!
 
 ## 📚 Learning Resources
 
@@ -238,7 +238,5 @@ By the end of this guide, you should be able to:
 
 ---
 
-**Ready to start?** Open [Git Basics](./01-git-basics/README.md) and begin your journey! 🚀
-
-**Remember:** Every expert was once a beginner. Take your time and practice! 💪
+**Ready to start?** Open [Git Basics](./01-git-basics/README.md) and begin your journey!
 
